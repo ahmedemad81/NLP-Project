@@ -1,1 +1,1 @@
-# NLP-Project
+# NLP-Project | Arabic Text Diacritization
